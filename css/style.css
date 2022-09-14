@@ -17,8 +17,8 @@ body{
 
 div{
     padding: 30px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 500px;
+    margin-right: 500px;
     background-color: white;
 }
 
@@ -40,6 +40,8 @@ div{
     background-color: #87ceeb;
     border-radius: 5px;
     color: white;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .addsection{
@@ -47,6 +49,8 @@ div{
     border-style:ridge;
     border-width: 1px;
     border-color: lightgrey;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .section{
@@ -86,6 +90,8 @@ div{
     background-color: #87ceeb;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .Q1{
@@ -94,6 +100,8 @@ div{
     background-color: #9370db;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .recruiting{
@@ -102,6 +110,8 @@ div{
     background-color: #8fbc8f;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .mobile{
@@ -110,6 +120,8 @@ div{
     background-color: orange;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .website{
@@ -118,6 +130,8 @@ div{
     background-color: #ff69b4;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 .sales{
@@ -126,4 +140,6 @@ div{
     background-color: #808000;
     color: white;
     border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial;
 }
